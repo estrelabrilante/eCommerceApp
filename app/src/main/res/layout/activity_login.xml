@@ -29,6 +29,7 @@
         android:textColor="@color/purple_700"
         android:textSize="15sp"
         android:layout_marginTop="2dp"
+        android:padding="20dp"
         android:textColorHint="@color/purple_700"
 
 
@@ -42,8 +43,9 @@
         android:background="@drawable/inputs_design"
         android:layout_marginLeft="15dp"
         android:layout_marginRight="15dp"
+        android:padding="20dp"
         android:hint="Password"
-        android:inputType="number"
+        android:inputType="textPassword"
         android:textColor="@color/purple_700"
         android:textSize="15sp"
         android:layout_marginTop="6dp"
